@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
+  <head>
   <title> The Great Taco Bell </title>
+  </head>
   <body>
     <h1> The Crunchy Taco </h1>
     <p> The Crunchy Taco is a common staple at Taco Bell. </p>
