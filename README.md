@@ -1,8 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
-  <title> The Great Taco Bell </title>
-  </head>
   <body>
     <h1> The Crunchy Taco </h1>
     <img src="https://www.taco-bell.ro/wp-content/uploads/crunchy-taco-supreme.png" alt="Crunchy Taco"
