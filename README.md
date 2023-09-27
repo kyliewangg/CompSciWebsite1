@@ -1,4 +1,7 @@
 <html>
+  <style>
+    body {background: E6E6FA;}
+  </style>
   <body>
     <h1> The Crunchy Taco </h1>
     <img src="https://www.taco-bell.ro/wp-content/uploads/crunchy-taco-supreme.png" alt="Crunchy Taco"
@@ -9,7 +12,6 @@
     <h3> The Nachos BellGrande </h3>
     <img src="https://www.tacobell.com/images/22502_nachos_bellgrande_750x660.jpg" alt="Nachos BellGrande"
     <p> The <a href="https://www.tacobell.com/food/nachos/nachos-bellgrande"> Nachos BellGrande</a> from Taco Bell is a mouthwatering masterpiece that combines the best of Tex-Mex flavors into a single, satisfying dish. Crispy triangular tortilla chips serve as the canvas for this culinary delight, generously topped with seasoned beef, creamy refried beans, zesty nacho cheese sauce, and cool sour cream. It's then garnished with diced ripe tomatoes and crisp lettuce, adding a refreshing contrast to the savory and cheesy goodness beneath. The Nacho BellGrande is the perfect harmony of textures and tastes, delivering a symphony of flavors in every bite. Whether enjoyed as a hearty snack or a full meal, this menu item never fails to satisfy cravings for bold, indulgent Mexican-inspired cuisine, making it a perennial favorite among Taco Bell enthusiasts.</p>
-    
-  </body>
+    </body>
 </html>
 
