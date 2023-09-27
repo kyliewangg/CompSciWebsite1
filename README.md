@@ -1,7 +1,4 @@
 <html>
-  <style>
-    body {background: E6E6FA;}
-  </style>
   <body>
     <h1> The Crunchy Taco </h1>
     <img src="https://www.taco-bell.ro/wp-content/uploads/crunchy-taco-supreme.png" alt="Crunchy Taco"
