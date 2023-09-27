@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1> The Crunchy Taco </h1>
-    <img src="https://www.taco-bell.ro/wp-content/uploads/crunchy-taco-supreme.png" alt="Crunchy Taco"
+    <img src="https://i.pinimg.com/564x/75/2d/7b/752d7b33d606d449bbfba27b7926503e.jpg" alt="Crunchy Taco"
     <p> The <a href="https://www.tacobell.com/food/tacos/crunchy-taco">Crunchy Taco</a> from Taco Bell is an iconic fast food classic that has delighted taste buds for generations. This delectable creation features a crispy, golden taco shell filled with seasoned ground beef, shredded lettuce, and a generous sprinkling of cheddar cheese. The taco's satisfying crunch is a symphony of textures, with the shell providing a satisfying snap with each bite. It's then perfectly balanced by the savory, well-seasoned meat, while the cool, crisp lettuce and creamy cheese add a refreshing contrast. Whether enjoyed on its own or as part of a combo meal, the Crunchy Taco is a beloved favorite that continues to be a go-to choice for those seeking a quick and delicious fast food fix. </p>
     <h2> The Baja Blast Freeze </h2> 
     <img src="https://hips.hearstapps.com/hmg-prod/images/mountain-dew-baja-blast-colada-freeze-1621520057.jpg" alt="Baja Blast Freeze"
